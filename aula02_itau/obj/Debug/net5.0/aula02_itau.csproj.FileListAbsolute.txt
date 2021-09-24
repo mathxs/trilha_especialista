@@ -1,0 +1,16 @@
+/home/mathxs/Documentos/workspace/aula02_itau/obj/Debug/net5.0/aula02_itau.csproj.AssemblyReference.cache
+/home/mathxs/Documentos/workspace/aula02_itau/obj/Debug/net5.0/aula02_itau.GeneratedMSBuildEditorConfig.editorconfig
+/home/mathxs/Documentos/workspace/aula02_itau/obj/Debug/net5.0/aula02_itau.AssemblyInfoInputs.cache
+/home/mathxs/Documentos/workspace/aula02_itau/obj/Debug/net5.0/aula02_itau.AssemblyInfo.cs
+/home/mathxs/Documentos/workspace/aula02_itau/obj/Debug/net5.0/aula02_itau.csproj.CoreCompileInputs.cache
+/home/mathxs/Documentos/workspace/aula02_itau/bin/Debug/net5.0/aula02_itau
+/home/mathxs/Documentos/workspace/aula02_itau/bin/Debug/net5.0/aula02_itau.deps.json
+/home/mathxs/Documentos/workspace/aula02_itau/bin/Debug/net5.0/aula02_itau.runtimeconfig.json
+/home/mathxs/Documentos/workspace/aula02_itau/bin/Debug/net5.0/aula02_itau.runtimeconfig.dev.json
+/home/mathxs/Documentos/workspace/aula02_itau/bin/Debug/net5.0/aula02_itau.dll
+/home/mathxs/Documentos/workspace/aula02_itau/bin/Debug/net5.0/ref/aula02_itau.dll
+/home/mathxs/Documentos/workspace/aula02_itau/bin/Debug/net5.0/aula02_itau.pdb
+/home/mathxs/Documentos/workspace/aula02_itau/obj/Debug/net5.0/aula02_itau.dll
+/home/mathxs/Documentos/workspace/aula02_itau/obj/Debug/net5.0/ref/aula02_itau.dll
+/home/mathxs/Documentos/workspace/aula02_itau/obj/Debug/net5.0/aula02_itau.pdb
+/home/mathxs/Documentos/workspace/aula02_itau/obj/Debug/net5.0/aula02_itau.genruntimeconfig.cache
