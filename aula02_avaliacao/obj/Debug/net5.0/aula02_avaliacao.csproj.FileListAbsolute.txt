@@ -1,0 +1,16 @@
+/home/mathxs/Documentos/workspace/aula02_avaliacao/bin/Debug/net5.0/aula02_avaliacao
+/home/mathxs/Documentos/workspace/aula02_avaliacao/bin/Debug/net5.0/aula02_avaliacao.deps.json
+/home/mathxs/Documentos/workspace/aula02_avaliacao/bin/Debug/net5.0/aula02_avaliacao.runtimeconfig.json
+/home/mathxs/Documentos/workspace/aula02_avaliacao/bin/Debug/net5.0/aula02_avaliacao.runtimeconfig.dev.json
+/home/mathxs/Documentos/workspace/aula02_avaliacao/bin/Debug/net5.0/aula02_avaliacao.dll
+/home/mathxs/Documentos/workspace/aula02_avaliacao/bin/Debug/net5.0/ref/aula02_avaliacao.dll
+/home/mathxs/Documentos/workspace/aula02_avaliacao/bin/Debug/net5.0/aula02_avaliacao.pdb
+/home/mathxs/Documentos/workspace/aula02_avaliacao/obj/Debug/net5.0/aula02_avaliacao.csproj.AssemblyReference.cache
+/home/mathxs/Documentos/workspace/aula02_avaliacao/obj/Debug/net5.0/aula02_avaliacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/mathxs/Documentos/workspace/aula02_avaliacao/obj/Debug/net5.0/aula02_avaliacao.AssemblyInfoInputs.cache
+/home/mathxs/Documentos/workspace/aula02_avaliacao/obj/Debug/net5.0/aula02_avaliacao.AssemblyInfo.cs
+/home/mathxs/Documentos/workspace/aula02_avaliacao/obj/Debug/net5.0/aula02_avaliacao.csproj.CoreCompileInputs.cache
+/home/mathxs/Documentos/workspace/aula02_avaliacao/obj/Debug/net5.0/aula02_avaliacao.dll
+/home/mathxs/Documentos/workspace/aula02_avaliacao/obj/Debug/net5.0/ref/aula02_avaliacao.dll
+/home/mathxs/Documentos/workspace/aula02_avaliacao/obj/Debug/net5.0/aula02_avaliacao.pdb
+/home/mathxs/Documentos/workspace/aula02_avaliacao/obj/Debug/net5.0/aula02_avaliacao.genruntimeconfig.cache
